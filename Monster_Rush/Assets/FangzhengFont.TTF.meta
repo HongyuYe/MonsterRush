@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 317354c5b3e3f644190ab2eb8271f8c8
+timeCreated: 1557808252
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZZongYi-M05S
+  fontNames:
+  - FZZongYi-M05S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
